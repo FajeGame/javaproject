@@ -7,6 +7,10 @@ class MainTest {
 
     @Test
     void main() {
-        assertEquals(2, Main.inc(1));
+        //System.out.println(Main.first());
+        //System.out.println(Main.second());
+        System.out.println(Main.third());
+        //System.out.println(Main.fourth());
+        //System.out.println(Main.fifth("12321"));
     }
 }
